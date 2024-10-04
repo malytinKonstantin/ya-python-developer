@@ -1,0 +1,62 @@
+# Виртуальное окружение Python
+venv/
+env/
+.venv/
+.env/
+
+# Файлы кэша Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы журналов
+*.log
+
+# Файлы базы данных SQLite
+*.sqlite3
+
+# Файлы настроек IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Файлы сборки
+build/
+dist/
+*.egg-info/
+
+# Файлы документации
+docs/_build/
+
+# Файлы покрытия тестов
+.coverage
+htmlcov/
+
+# Файлы переменных окружения
+.env
+
+# Файлы зависимостей
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Файлы системы macOS
+.DS_Store
+
+# Файлы системы Windows
+Thumbs.db
+
+# Файлы Jupyter Notebook
+.ipynb_checkpoints
+
+# Файлы mypy
+.mypy_cache/
+
+# Файлы pytest
+.pytest_cache/
+
+# Файлы poetry
+poetry.lock
+
+# Файлы Pipenv
+Pipfile.lock
