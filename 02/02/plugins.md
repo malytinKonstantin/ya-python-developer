@@ -12,7 +12,7 @@
    - Ссылка: https://marketplace.visualstudio.com/items?itemName=ms-python.flake8
    - Описание: Инструмент для проверки стиля и качества кода Python, объединяющий PyFlakes, pycodestyle и McCabe.
 
-4. Mypy
+4.  
    - Ссылка: https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker
    - Описание: Статический анализатор типов для Python, помогающий обнаруживать ошибки типов до выполнения кода.
 
